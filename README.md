@@ -20,7 +20,7 @@ A room chatting web application
 
 #### Note: Share the Room name only with friends you want to participate in the room.
 
-![Screenshot (237)](https://user-images.githubusercontent.com/90098332/195062016-ea58b06c-6973-4018-aa2e-4c23051f2199.png)
+![Screenshot (236)](https://user-images.githubusercontent.com/90098332/195087559-5b09e39c-4171-40f7-beff-10a65c9bcaec.png)
 
 ### Step-2 : Ask your friends to join with the same Room name to group chat
 
